@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Car Listings</title>
+  <style>
+    body { font-family: Arial; margin: 40px; }
+    .car { border: 1px solid #ccc; padding: 15px; margin: 10px; }
+    img { max-width: 200px; }
+  </style>
+</head>
+<body>
+  <h2>Available Cars</h2>
+  <div class="car">
+    <h3>BMW X5 (2022)</h3>
+    <p>Price: €80/day</p>
+    <p>Company: RentAuto Tirana</p>
+    <img src="bmw.jpg" alt="BMW X5">
+  </div>
+  <div class="car">
+    <h3>Mercedes C-Class (2021)</h3>
+    <p>Price: €70/day</p>
+    <p>Company: LuxuryDrive Albania</p>
+    <img src="mercedes.jpg" alt="Mercedes C-Class">
+  </div>
+</body>
+</html>
