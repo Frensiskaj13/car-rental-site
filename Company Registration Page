@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Company Registration</title>
+  <style>
+    body { font-family: Arial; margin: 40px; }
+    form { max-width: 400px; margin: auto; }
+    input, button { width: 100%; padding: 10px; margin: 8px 0; }
+  </style>
+</head>
+<body>
+  <h2>Register Your Company</h2>
+  <form>
+    <input type="text" placeholder="Company Name" required>
+    <input type="email" placeholder="Business Email" required>
+    <input type="text" placeholder="Location" required>
+    <button type="submit">Create Profile</button>
+  </form>
+</body>
+</html>
